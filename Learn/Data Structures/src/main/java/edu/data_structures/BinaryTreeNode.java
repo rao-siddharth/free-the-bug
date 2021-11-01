@@ -1,4 +1,4 @@
-package src.main.java.edu.data_structures;
+package main.java.edu.data_structures;
 
 public class BinaryTreeNode {
 
